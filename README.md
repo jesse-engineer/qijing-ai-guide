@@ -38,6 +38,7 @@
 - [跨章连续性检查表](templates/continuity-review.md)：核对时间、知识、资源与伏笔。
 - [同人创作教学示例：《斗罗大陆》](examples/douluo-dalu.md)：展示从设定到改写要求的过程。
 - [可复核的体验记录方法](docs/reproducible-review.md)：保留输入、输出和修改前后对照，供教程作者与其他项目复用。
+- [真实网页案例：斗罗大陆Ⅰ](docs/case-study-douluo-2026-09-18.md)：记录一次原作方向选择与局部写作修订。
 
 模板可用于奇境 AI，也可用于手工规划。教学示例不是平台实测输出或效果评测。
 

@@ -32,6 +32,7 @@ The following resources are in Chinese:
 - [Continuity review checklist](templates/continuity-review.md)
 - [Douluo Dalu fanfiction instructional scenario](examples/douluo-dalu.md)
 - [Reproducible review worksheet](docs/reproducible-review.md)
+- [Live web case: Douluo Dalu I](docs/case-study-douluo-2026-09-18.md)
 
 The example is teaching material, not a recorded product run or benchmark result.
 
