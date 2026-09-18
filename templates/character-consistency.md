@@ -1,5 +1,7 @@
 # 角色一致性检查表
 
+[模板使用说明](README.md) · [斗罗大陆示例](../examples/douluo-dalu.md)
+
 ## 资料卡
 
 - 角色：

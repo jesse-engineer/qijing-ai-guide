@@ -26,10 +26,12 @@ The following resources are in Chinese:
 
 - [Quick start](docs/quickstart.md)
 - [FAQ](docs/faq.md)
+- [How to use the three templates](templates/README.md)
 - [Story brief](templates/story-brief.md)
 - [Character consistency checklist](templates/character-consistency.md)
 - [Continuity review checklist](templates/continuity-review.md)
 - [Douluo Dalu fanfiction instructional scenario](examples/douluo-dalu.md)
+- [Reproducible review worksheet](docs/reproducible-review.md)
 
 The example is teaching material, not a recorded product run or benchmark result.
 

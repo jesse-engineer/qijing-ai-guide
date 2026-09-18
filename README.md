@@ -31,10 +31,13 @@
 
 ## 可直接使用的材料
 
+先看[三个模板怎样配合使用](templates/README.md)：从一句脑洞、一次局部修改到下一章的状态核对，每份都有使用时机与填写示范。
+
 - [创作简报模板](templates/story-brief.md)：记录想法、原作边界与当前任务。
 - [角色一致性检查表](templates/character-consistency.md)：区分原作事实、合理推断和新增设定。
 - [跨章连续性检查表](templates/continuity-review.md)：核对时间、知识、资源与伏笔。
 - [同人创作教学示例：《斗罗大陆》](examples/douluo-dalu.md)：展示从设定到改写要求的过程。
+- [可复核的体验记录方法](docs/reproducible-review.md)：保留输入、输出和修改前后对照，供教程作者与其他项目复用。
 
 模板可用于奇境 AI，也可用于手工规划。教学示例不是平台实测输出或效果评测。
 
