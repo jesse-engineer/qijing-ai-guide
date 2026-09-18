@@ -34,7 +34,7 @@
 - [创作简报模板](templates/story-brief.md)：记录想法、原作边界与当前任务。
 - [角色一致性检查表](templates/character-consistency.md)：区分原作事实、合理推断和新增设定。
 - [跨章连续性检查表](templates/continuity-review.md)：核对时间、知识、资源与伏笔。
-- [原创教学示例：雾港灯塔](examples/fog-harbor.md)：展示从设定到改写要求的过程。
+- [同人创作教学示例：《斗罗大陆》](examples/douluo-dalu.md)：展示从设定到改写要求的过程。
 
 模板可用于奇境 AI，也可用于手工规划。教学示例不是平台实测输出或效果评测。
 

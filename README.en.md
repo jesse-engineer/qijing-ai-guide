@@ -29,7 +29,7 @@ The following resources are in Chinese:
 - [Story brief](templates/story-brief.md)
 - [Character consistency checklist](templates/character-consistency.md)
 - [Continuity review checklist](templates/continuity-review.md)
-- [Original instructional scenario](examples/fog-harbor.md)
+- [Douluo Dalu fanfiction instructional scenario](examples/douluo-dalu.md)
 
 The example is teaching material, not a recorded product run or benchmark result.
 
